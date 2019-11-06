@@ -1,0 +1,706 @@
+@font-face {
+    font-family: 'icomoon';
+    src: url('fonts/icomoon.eot?qw7g6q');
+    src: url('fonts/icomoon.eot?qw7g6q#iefix') format('embedded-opentype'),
+    url('fonts/icomoon.ttf?qw7g6q') format('truetype'),
+    url('fonts/icomoon.woff?qw7g6q') format('woff'),
+    url('fonts/icomoon.svg?qw7g6q#icomoon') format('svg');
+    font-weight: normal;
+    font-display: swap;
+    font-style: normal;
+}
+
+[class^="ala-"], [class*=" ala-"] {
+    /* use !important to prevent issues with browser extensions that change fonts */
+    font-family: 'icomoon' !important;
+    speak: none;
+    font-style: normal;
+    font-weight: normal;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+
+    /* Better Font Rendering =========== */
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.ala-homepage:before {
+    content: "\e900";
+}
+
+.ala-about-us:before {
+    content: "\e901";
+}
+
+.ala-about-us-2:before {
+    content: "\e902";
+}
+
+.ala-contact:before {
+    content: "\e903";
+}
+
+.ala-contact-2:before {
+    content: "\e904";
+}
+
+.ala-contact-3:before {
+    content: "\e905";
+}
+
+.ala-booking-manager:before {
+    content: "\e906";
+}
+
+.ala-booking-manager-2:before {
+    content: "\e907";
+}
+
+.ala-booking-manager-3:before {
+    content: "\e908";
+}
+
+.ala-transfer:before {
+    content: "\e909";
+}
+
+.ala-tour:before {
+    content: "\e90a";
+}
+
+.ala-tour-2:before {
+    content: "\e90b";
+}
+
+.ala-tour-3:before {
+    content: "\e90c";
+}
+
+.ala-bus:before {
+    content: "\e90d";
+}
+
+.ala-bus-2:before {
+    content: "\e90e";
+}
+
+.ala-flight:before {
+    content: "\e90f";
+}
+
+.ala-flight-2:before {
+    content: "\e910";
+}
+
+.ala-train:before {
+    content: "\e911";
+}
+
+.ala-train-2:before {
+    content: "\e912";
+}
+
+.ala-accommodation:before {
+    content: "\e913";
+}
+
+.ala-accommodation-2:before {
+    content: "\e914";
+}
+
+.ala-ferry:before {
+    content: "\e915";
+}
+
+.ala-ferry-2:before {
+    content: "\e916";
+}
+
+.ala-blue-cruise:before {
+    content: "\e917";
+}
+
+.ala-blue-cruise-2:before {
+    content: "\e918";
+}
+
+.ala-turkish-gulet:before {
+    content: "\e919";
+}
+
+.ala-yacht:before {
+    content: "\e91a";
+}
+
+.ala-package-tour:before {
+    content: "\e91b";
+}
+
+.ala-turkey-package-tour:before {
+    content: "\e91c";
+}
+
+.ala-destination-package-tour:before {
+    content: "\e91d";
+}
+
+.ala-yacht-charter:before {
+    content: "\e91e";
+}
+
+.ala-private-yacht-charter:before {
+    content: "\e91f";
+}
+
+.ala-paragliding:before {
+    content: "\e920";
+}
+
+.ala-diving:before {
+    content: "\e921";
+}
+
+.ala-diving-2:before {
+    content: "\e922";
+}
+
+.ala-breakfast:before {
+    content: "\e923";
+}
+
+.ala-breakfast-2:before {
+    content: "\e924";
+}
+
+.ala-lunch:before {
+    content: "\e925";
+}
+
+.ala-lunch-2:before {
+    content: "\e926";
+}
+
+.ala-dinner:before {
+    content: "\e927";
+}
+
+.ala-dinner-2:before {
+    content: "\e928";
+}
+
+.ala-dinner-3:before {
+    content: "\e929";
+}
+
+.ala-snack:before {
+    content: "\e92a";
+}
+
+.ala-vegan-food:before {
+    content: "\e92b";
+}
+
+.ala-fruit:before {
+    content: "\e92c";
+}
+
+.ala-fruit-2:before {
+    content: "\e92d";
+}
+
+.ala-birthday:before {
+    content: "\e92e";
+}
+
+.ala-sunrise:before {
+    content: "\e92f";
+}
+
+.ala-sunset:before {
+    content: "\e930";
+}
+
+.ala-ice-cream:before {
+    content: "\e931";
+}
+
+.ala-water-sports:before {
+    content: "\e932";
+}
+
+.ala-sleep-under-the-stars:before {
+    content: "\e933";
+}
+
+.ala-table-games:before {
+    content: "\e934";
+}
+
+.ala-butterfly:before {
+    content: "\e935";
+}
+
+.ala-bbq:before {
+    content: "\e936";
+}
+
+.ala-video:before {
+    content: "\e937";
+}
+
+.ala-video-2:before {
+    content: "\e938";
+}
+
+.ala-audio:before {
+    content: "\e939";
+}
+
+.ala-audio-second:before {
+    content: "\e93a";
+}
+
+.ala-image:before {
+    content: "\e93b";
+}
+
+.ala-image-2:before {
+    content: "\e93c";
+}
+
+.ala-share:before {
+    content: "\e93d";
+}
+
+.ala-share-2:before {
+    content: "\e93e";
+}
+
+.ala-share-3:before {
+    content: "\e93f";
+}
+
+.ala-harbour:before {
+    content: "\e940";
+}
+
+.ala-ancient-city:before {
+    content: "\e941";
+}
+
+.ala-mosque:before {
+    content: "\e942";
+}
+
+.ala-mosque-2:before {
+    content: "\e943";
+}
+
+.ala-soldier:before {
+    content: "\e944";
+}
+
+.ala-map:before {
+    content: "\e945";
+}
+
+.ala-map-2:before {
+    content: "\e946";
+}
+
+.ala-map-3:before {
+    content: "\e947";
+}
+
+.ala-map-alaturka:before {
+    content: "\e948";
+}
+
+.ala-arrow-right:before {
+    content: "\e949";
+}
+
+.ala-arrow-right-2:before {
+    content: "\e94a";
+}
+
+.ala-arrow-right-3:before {
+    content: "\e94b";
+}
+
+.ala-arrow-right-4:before {
+    content: "\e94c";
+}
+
+.ala-arrow-up:before {
+    content: "\e94d";
+}
+
+.ala-arrow-up-2:before {
+    content: "\e94e";
+}
+
+.ala-arrow-up-3:before {
+    content: "\e94f";
+}
+
+.ala-arrow-up-4:before {
+    content: "\e950";
+}
+
+.ala-arrow-left:before {
+    content: "\e951";
+}
+
+.ala-arrow-left-2:before {
+    content: "\e952";
+}
+
+.ala-arrow-left-3:before {
+    content: "\e953";
+}
+
+.ala-arrow-left-4:before {
+    content: "\e954";
+}
+
+.ala-arrow-down:before {
+    content: "\e955";
+}
+
+.ala-arrow-down-2:before {
+    content: "\e956";
+}
+
+.ala-arrow-down-3:before {
+    content: "\e957";
+}
+
+.ala-arrow-down-4:before {
+    content: "\e958";
+}
+
+.ala-phone:before {
+    content: "\e959";
+}
+
+.ala-phone-2:before {
+    content: "\e95a";
+}
+
+.ala-fax:before {
+    content: "\e95b";
+}
+
+.ala-mail:before {
+    content: "\e95c";
+}
+
+.ala-mail-2:before {
+    content: "\e95d";
+}
+
+.ala-ask:before {
+    content: "\e95e";
+}
+
+.ala-ask-2:before {
+    content: "\e95f";
+}
+
+.ala-user-review:before {
+    content: "\e960";
+}
+
+.ala-user-review-2:before {
+    content: "\e961";
+}
+
+.ala-destination:before {
+    content: "\e962";
+}
+
+.ala-destination-2:before {
+    content: "\e963";
+}
+
+.ala-destination-3:before {
+    content: "\e964";
+}
+
+.ala-terms:before {
+    content: "\e965";
+}
+
+.ala-privacy:before {
+    content: "\e966";
+}
+
+.ala-privacy-2:before {
+    content: "\e967";
+}
+
+.ala-jobs:before {
+    content: "\e968";
+}
+
+.ala-jobs-2:before {
+    content: "\e969";
+}
+
+.ala-media:before {
+    content: "\e96a";
+}
+
+.ala-media-2:before {
+    content: "\e96b";
+}
+
+.ala-copyright:before {
+    content: "\e96c";
+}
+
+.ala-copyright-2:before {
+    content: "\e96d";
+}
+
+.ala-tour-duration:before {
+    content: "\e96e";
+}
+
+.ala-tour-duration-2:before {
+    content: "\e96f";
+}
+
+.ala-hot-air-balloon:before {
+    content: "\e970";
+}
+
+.ala-exclamation:before {
+    content: "\e971";
+}
+
+.ala-exclamation-2:before {
+    content: "\e972";
+}
+
+.ala-plus:before {
+    content: "\e973";
+}
+
+.ala-plus-2:before {
+    content: "\e974";
+}
+
+.ala-minus:before {
+    content: "\e975";
+}
+
+.ala-minus-2:before {
+    content: "\e976";
+}
+
+.ala-jeep:before {
+    content: "\e977";
+}
+
+.ala-horse:before {
+    content: "\e978";
+}
+
+.ala-camel:before {
+    content: "\e979";
+}
+
+.ala-atv:before {
+    content: "\e97a";
+}
+
+.ala-lira:before {
+    content: "\e97b";
+}
+
+.ala-euro:before {
+    content: "\e97c";
+}
+
+.ala-dollar:before {
+    content: "\e97d";
+}
+
+.ala-hot-deal:before {
+    content: "\e97e";
+}
+
+.ala-tick:before {
+    content: "\e97f";
+}
+
+.ala-tick-2:before {
+    content: "\e980";
+}
+
+.ala-x-icon:before {
+    content: "\e981";
+}
+
+.ala-x-icon-2:before {
+    content: "\e982";
+}
+
+.ala-gallery:before {
+    content: "\e983";
+}
+
+.ala-van:before {
+    content: "\e984";
+}
+
+.ala-car:before {
+    content: "\e985";
+}
+
+.ala-car-2:before {
+    content: "\e986";
+}
+
+.ala-taxi:before {
+    content: "\e987";
+}
+
+.ala-taxi-2:before {
+    content: "\e988";
+}
+
+.ala-search:before {
+    content: "\e989";
+}
+
+.ala-search-2:before {
+    content: "\e98a";
+}
+
+.ala-info:before {
+    content: "\e98b";
+}
+
+.ala-adult:before {
+    content: "\e98c";
+}
+
+.ala-child:before {
+    content: "\e98d";
+}
+
+.ala-infant:before {
+    content: "\e98e";
+}
+
+.ala-sitemap:before {
+    content: "\e98f";
+}
+
+.ala-swimming-pool:before {
+    content: "\e990";
+}
+
+.ala-restaurant:before {
+    content: "\e991";
+}
+
+.ala-restaurant-2:before {
+    content: "\e992";
+}
+
+.ala-bar:before {
+    content: "\e993";
+}
+
+.ala-terrace:before {
+    content: "\e994";
+}
+
+.ala-shared-lounge:before {
+    content: "\e995";
+}
+
+.ala-turkish-bath:before {
+    content: "\e996";
+}
+
+.ala-massage:before {
+    content: "\e997";
+}
+
+.ala-fitness:before {
+    content: "\e998";
+}
+
+.ala-spa-facilities:before {
+    content: "\e999";
+}
+
+.ala-parking-first:before {
+    content: "\e99a";
+}
+
+.ala-parking-second:before {
+    content: "\e99b";
+}
+
+.ala-free-wifi:before {
+    content: "\e99c";
+}
+
+.ala-laundry:before {
+    content: "\e99d";
+}
+
+.ala-money-exchange:before {
+    content: "\e99e";
+}
+
+.ala-money-exchange-2:before {
+    content: "\e99f";
+}
+
+.ala-money-exchange-3:before {
+    content: "\e9a0";
+}
+
+.ala-safe-deposit-box:before {
+    content: "\e9a1";
+}
+
+.ala-luggage-storage:before {
+    content: "\e9a2";
+}
+
+.ala-24-hour-front-desk:before {
+    content: "\e9a3";
+}
+
+.ala-beach:before {
+    content: "\e9a4";
+}
+
+.ala-volleyball:before {
+    content: "\e9a5";
+}
+
+.ala-billiards:before {
+    content: "\e9a6";
+}
+
+.ala-table-tennis:before {
+    content: "\e9a7";
+}
+
+.ala-dart:before {
+    content: "\e9a8";
+}
+
+.ala-night-bus:before {
+    content: "\e9a9";
+}

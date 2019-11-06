@@ -1,0 +1,23 @@
+{
+  "name": "ala-icons",
+  "version": "1.0.0",
+  "description": "Alaturka Travel Icon Pack",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alaturkaturkey/ala-icons.git"
+  },
+  "keywords": [
+    "travel",
+    "icons"
+  ],
+  "author": "Mevlüt Canvar",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/alaturkaturkey/ala-icons/issues"
+  },
+  "homepage": "https://github.com/alaturkaturkey/ala-icons#readme"
+}
