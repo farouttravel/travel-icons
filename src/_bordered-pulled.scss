@@ -1,0 +1,20 @@
+// Bordered & Pulled
+// -------------------------
+
+.#{$ala-css-prefix}-border {
+  border: solid .08em $ala-border-color;
+  border-radius: .1em;
+  padding: .2em .25em .15em;
+}
+
+.#{$ala-css-prefix}-pull-left { float: left; }
+.#{$ala-css-prefix}-pull-right { float: right; }
+
+.#{$ala-css-prefix},
+.ais,
+.air,
+.ail,
+.aib {
+  &.#{$ala-css-prefix}-pull-left { margin-right: .3em; }
+  &.#{$ala-css-prefix}-pull-right { margin-left: .3em; }
+}

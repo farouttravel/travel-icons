@@ -1,0 +1,18 @@
+// List Icons
+// -------------------------
+
+.#{$ala-css-prefix}-ul {
+  list-style-type: none;
+  margin-left: $ala-li-width * 5/4;
+  padding-left: 0;
+
+  > li { position: relative; }
+}
+
+.#{$ala-css-prefix}-li {
+  left: -$ala-li-width;
+  position: absolute;
+  text-align: center;
+  width: $ala-li-width;
+  line-height: inherit;
+}

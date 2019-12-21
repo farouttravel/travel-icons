@@ -1,0 +1,22 @@
+// Base Class Definition
+// -------------------------
+
+.#{$ala-css-prefix},
+.ais,
+.air,
+.ail,
+.aid,
+.aib {
+  font-family: 'Ala-Icons';
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+  display: inline-block;
+  font-style: normal;
+  font-variant: normal;
+  text-rendering: auto;
+  line-height: 1;
+}
+
+%ai-icon {
+  @include ai-icon;
+}

@@ -1,0 +1,31 @@
+// Stacked Icons
+// -------------------------
+
+.#{$ala-css-prefix}-stack {
+  display: inline-block;
+  height: 2em;
+  line-height: 2em;
+  position: relative;
+  vertical-align: middle;
+  width: ($ala-fw-width*2);
+}
+
+.#{$ala-css-prefix}-stack-1x,
+.#{$ala-css-prefix}-stack-2x {
+  left: 0;
+  position: absolute;
+  text-align: center;
+  width: 100%;
+}
+
+.#{$ala-css-prefix}-stack-1x {
+  line-height: inherit;
+}
+
+.#{$ala-css-prefix}-stack-2x {
+  font-size: 2em;
+}
+
+.#{$ala-css-prefix}-inverse {
+  color: $ala-inverse;
+}
