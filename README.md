@@ -6,7 +6,7 @@ List of icons: [farouttravel.github.io/travel-icons](https://farouttravel.github
 ### Usage
 Add repo as a dependency:
 
-`npm install git://github.com/farouttravel/travel-icons.git --save-dev`
+`npm i github:farouttravel/travel-icons --save-dev`
 
 in HTML:
 
