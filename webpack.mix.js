@@ -1,7 +1,8 @@
 let mix = require('laravel-mix');
 
-mix.setPublicPath('travel-icons');
-mix.setResourceRoot('/travel-icons');
+mix.setPublicPath('dist');
+mix.setResourceRoot('/dist');
 
-mix.sass('src/travel-icons.scss', 'travel-icons')
-    .minify('travel-icons/travel-icons.css');
+mix.sass('src/travel-icons.scss', 'dist')
+    .minify('dist/travel-icons.css')
+    .copy('src/index.html', 'dist');
