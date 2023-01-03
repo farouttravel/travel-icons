@@ -1,24 +1,24 @@
 // Rotated & Flipped Icons
 // -------------------------
 
-.#{$ala-css-prefix}-rotate-90  { @include ai-icon-rotate(90deg, 1);  }
-.#{$ala-css-prefix}-rotate-180 { @include ai-icon-rotate(180deg, 2); }
-.#{$ala-css-prefix}-rotate-270 { @include ai-icon-rotate(270deg, 3); }
+.#{$icon-css-prefix}-rotate-90  { @include ai-icon-rotate(90deg, 1);  }
+.#{$icon-css-prefix}-rotate-180 { @include ai-icon-rotate(180deg, 2); }
+.#{$icon-css-prefix}-rotate-270 { @include ai-icon-rotate(270deg, 3); }
 
-.#{$ala-css-prefix}-flip-horizontal { @include ai-icon-flip(-1, 1, 0); }
-.#{$ala-css-prefix}-flip-vertical   { @include ai-icon-flip(1, -1, 2); }
-.#{$ala-css-prefix}-flip-both, .#{$ala-css-prefix}-flip-horizontal.#{$ala-css-prefix}-flip-vertical { @include ai-icon-flip(-1, -1, 2); }
+.#{$icon-css-prefix}-flip-horizontal { @include ai-icon-flip(-1, 1, 0); }
+.#{$icon-css-prefix}-flip-vertical   { @include ai-icon-flip(1, -1, 2); }
+.#{$icon-css-prefix}-flip-both, .#{$icon-css-prefix}-flip-horizontal.#{$icon-css-prefix}-flip-vertical { @include ai-icon-flip(-1, -1, 2); }
 
 // Hook for IE8-9
 // -------------------------
 
 :root {
-  .#{$ala-css-prefix}-rotate-90,
-  .#{$ala-css-prefix}-rotate-180,
-  .#{$ala-css-prefix}-rotate-270,
-  .#{$ala-css-prefix}-flip-horizontal,
-  .#{$ala-css-prefix}-flip-vertical,
-  .#{$ala-css-prefix}-flip-both {
+  .#{$icon-css-prefix}-rotate-90,
+  .#{$icon-css-prefix}-rotate-180,
+  .#{$icon-css-prefix}-rotate-270,
+  .#{$icon-css-prefix}-flip-horizontal,
+  .#{$icon-css-prefix}-flip-vertical,
+  .#{$icon-css-prefix}-flip-both {
     filter: none;
   }
 }

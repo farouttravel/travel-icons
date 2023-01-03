@@ -1,11 +1,11 @@
 // Animated Icons
 // --------------------------
 
-.#{$ala-css-prefix}-spin {
+.#{$icon-css-prefix}-spin {
   animation: fa-spin 2s infinite linear;
 }
 
-.#{$ala-css-prefix}-pulse {
+.#{$icon-css-prefix}-pulse {
   animation: fa-spin 1s infinite steps(8);
 }
 
