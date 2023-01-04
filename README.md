@@ -8,7 +8,11 @@ Add repo as a dependency:
 
 `npm i github:farouttravel/travel-icons --save-dev`
 
-in HTML:
+import:
+
+`@import "~travel-icons/src/travel-icons.scss";`
+
+and use:
 
 `<i class="ti ti-butterfly"></i>`
 
